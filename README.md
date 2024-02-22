@@ -1,5 +1,5 @@
 <!-- ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&random=false&width=600&lines=Welcome+to+my+repo+!;Hope+you'll+find+some+useful+stuff)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&random=false&width=600&lines=Welcome+to+my+Git+!;Hope+you'll+find+some+useful+stuff)](https://git.io/typing-svg)
 
 # 💫 About me :
 <!-- 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact -->
