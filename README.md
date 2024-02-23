@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&random=false&width=600&lines=Welcome+to+my+Git+!;Hope+you'll+find+some+useful+stuff)](https://git.io/typing-svg)
 
 # 💫 About me
-🔭 Studying at school 42<br>🛠️ I have a background in mechanics, electronics<br>🪓 various crafts skills like woodworking and metalwork<br>⚡ I'm experienced with Arduino and ESP32 platforms<br>🎶 I love music and art, and I enjoy creating things
+🔭 Currently studying at 42 school<br>🛠️ I have a background in mechanics, electronics<br>🪓 various crafts skills like woodworking and metalwork<br>⚡ I'm experienced with Arduino and ESP32 platforms<br>🎶 I love music and art, and I enjoy creating things
 <!--👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact -->
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@raziel06001) 
