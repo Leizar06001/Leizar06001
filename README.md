@@ -20,6 +20,9 @@
 # 👾 Some of my projects
 <a href="https://github.com/Leizar06001/42_Cube_3D"><img src="https://github.com/Leizar06001/42_Cube_3D/blob/e17a581f08892ebf70ec1298de0222d614e288df/cube.gif" width="350"/></a> . . <a href="https://github.com/Leizar06001/42_So_Long"><img src="https://github.com/Leizar06001/42_So_Long/blob/e8929755b45c2f4b248e3e754d4e9f8932771000/so_long.gif" width="350"/></a>
 
+<a href="https://github.com/Leizar06001/ESP32_PC_Monitor"><img src="https://github.com/Leizar06001/ESP32_PC_Monitor/blob/3aaa712f5ebe2a4e2a4672153f6c1403e9cbb930/preview2.jpg" width="350"/></a>
+
+https://github.com/Leizar06001/ESP32_PC_Monitor/blob/3aaa712f5ebe2a4e2a4672153f6c1403e9cbb930/preview2.jpg
 ---
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=leizar06001&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
