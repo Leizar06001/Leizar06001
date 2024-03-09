@@ -24,7 +24,6 @@
 ### &#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F; ESP32 - Aida64 monitoring
 <a href="https://github.com/Leizar06001/ESP32_PC_Monitor"><img src="https://github.com/Leizar06001/ESP32_PC_Monitor/blob/3aaa712f5ebe2a4e2a4672153f6c1403e9cbb930/preview2.jpg" width="350"/></a>
 
-https://github.com/Leizar06001/ESP32_PC_Monitor/blob/3aaa712f5ebe2a4e2a4672153f6c1403e9cbb930/preview2.jpg
 ---
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=leizar06001&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
