@@ -1,6 +1,9 @@
 <!-- ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&random=false&width=600&lines=Welcome+to+my+Git+!;Hope+you'll+find+some+useful+stuff)](https://git.io/typing-svg)
 
+[![rloussig's 42 stats](https://badge42.coday.fr/api/v2/cltlvwjfk126101p4ggrph8at/stats?cursusId=21&coalitionId=318)](https://github.com/Coday-meric/badge42)
+
+
 # 💫 About me
 🔭 Just finished 42 school<br>🛠️ I have a background in mechanics, electronics<br>🪓 Various crafts skills like woodworking and metalwork<br>⚡ I'm experienced with Arduino and ESP32 platforms<br>🎶 I love music and art, and I enjoy creating things<br>🔬 I'm captivated by experiments and exploration!
 <!--👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact -->
