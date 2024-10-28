@@ -5,3 +5,6 @@ https://www.markdown-cheatsheet.com/
 https://learngitbranching.js.org/?locale=fr_FR
 
 https://ohmygit.org/   (game)
+
+### Nice gits
+https://github.com/rothgar/awesome-tuis?tab=readme-ov-file
