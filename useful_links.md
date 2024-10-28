@@ -6,8 +6,5 @@ https://learngitbranching.js.org/?locale=fr_FR
 
 https://ohmygit.org/   (game)
 
-### Nice gits
-
-Terminal softs :
-
+### Terminal softs
 https://github.com/rothgar/awesome-tuis?tab=readme-ov-file
