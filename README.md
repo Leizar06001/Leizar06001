@@ -4,6 +4,8 @@
 <!-- [![rloussig's 42 stats](https://badge42.coday.fr/api/v2/cltlvwjfk126101p4ggrph8at/stats?cursusId=21&coalitionId=318)](https://github.com/Coday-meric/badge42)
 -->
 
+# ➡️ <a href="https://github.com/Leizar06001?tab=repositories">GoTo Repos</a>
+
 # 💫 About me
 🔭 Just finished 42 school<br>🛠️ I have a background in mechanics, electronics<br>🪓 Various crafts skills like woodworking and metalwork<br>⚡ I'm experienced with Arduino and ESP32 platforms<br>🎶 I love music and art, and I enjoy creating things<br>🔬 I'm captivated by experiments and exploration!
 <!--👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact -->
@@ -21,6 +23,9 @@
 ![osx](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black) 
 
 # 👾 Some of my projects
+### &#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F; Terminal games
+<a href="https://github.com/Leizar06001/Terminal_games"><img src="https://github.com/Leizar06001/Terminal_games/blob/538e0b6804cb3d2f867d6d75123acc60dd363218/ascars.png" width="500"/></a>
+
 ### &#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F; Cube 3D &#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;SoLong
 <a href="https://github.com/Leizar06001/42_Cube_3D"><img src="https://github.com/Leizar06001/42_Cube_3D/blob/e17a581f08892ebf70ec1298de0222d614e288df/cube.gif" width="350"/></a>&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;<a href="https://github.com/Leizar06001/42_So_Long"><img src="https://github.com/Leizar06001/42_So_Long/blob/e8929755b45c2f4b248e3e754d4e9f8932771000/so_long.gif" width="350"/></a>
 
