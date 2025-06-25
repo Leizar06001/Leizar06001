@@ -7,7 +7,7 @@
 # ➡️ <a href="https://github.com/Leizar06001?tab=repositories">GoTo Repos</a>
 
 # 💫 About me
-🔭 Just finished 42 school<br>🛠️ I have a background in mechanics, electronics<br>🪓 Various crafts skills like woodworking and metalwork<br>⚡ I'm experienced with Arduino and ESP32 platforms<br>🎶 I love music and art, and I enjoy creating things<br>🔬 I'm captivated by experiments and exploration!
+Embedded Systems Developer<br>🔭 Finished 42 school<br>🛠️ I have a background in mechanics, electronics<br>🪓 Various crafts skills like woodworking and metalwork<br>⚡ I'm experienced with Arduino and ESP32 platforms<br>🎶 I love music and art, and I enjoy creating things<br>🔬 I'm captivated by experiments and exploration!
 <!--👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact -->
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@raziel06001) 
