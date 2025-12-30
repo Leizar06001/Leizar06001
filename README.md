@@ -23,6 +23,9 @@ Embedded Systems Developer<br>🔭 Finished 42 school<br>🛠️ I have a backgr
 ![osx](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black) 
 
 # 👾 Some of my projects
+### &#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F; Guitar Hero Terminal
+<a href="https://github.com/Leizar06001/Guitar-Hero-Terminal"><img src="https://github.com/Leizar06001/Guitar-Hero-Terminal/blob/865203f577b9dcee0f0f1ae1412cf0aa6d08dc89/gh1.png" width="500"/></a>
+
 ### &#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F;&#x202F; Terminal games
 <a href="https://github.com/Leizar06001/Terminal_games"><img src="https://github.com/Leizar06001/Terminal_games/blob/538e0b6804cb3d2f867d6d75123acc60dd363218/ascars.png" width="500"/></a>
 
